@@ -25,7 +25,9 @@ stored_vectors/
 # Local only folders
 local_only/
 data/
-notebooks
+#notebooks
+
+**/.ipynb_checkpoints/
 # Model weights (optional)
 *.gguf
 *.bin

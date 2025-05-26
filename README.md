@@ -92,6 +92,7 @@ This is an evolving project. Possible enhancements include:
 
 - [OpenAI / Anthropic / Hugging Face APIs]
 - [MongoDB Python Docs](https://pymongo.readthedocs.io/)
-- [Evaluation benchmarks like PIQA](https://allenai.org/data/piqa)
+- [PIQA dataset](https://paperswithcode.com/dataset/piqa)
+- [BoolQ dataset](https://paperswithcode.com/dataset/boolq)
 
 ---
